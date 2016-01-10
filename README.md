@@ -5,6 +5,8 @@ PNG file generation with pure JavaScript.
 
 Used to measure browser performance back in a day.
 
+Watch it live here: [http://www.sib.li/js.png/](http://www.sib.li/js.png/)
+
 Contains a lot of cool stuff like:
 
 * [Adler32](https://en.wikipedia.org/wiki/Adler-32) implementation in JS
