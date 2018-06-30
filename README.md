@@ -5,7 +5,9 @@ PNG file generation with pure JavaScript.
 
 Used to measure browser performance back in a day.
 
-Watch it live here: [http://www.sib.li/js.png/](http://www.sib.li/js.png/)
+Watch it live here: [https://sib.li/js.png](https://sib.li/js.png)
+
+or here: [https://siberex.github.io/png-js/](https://siberex.github.io/png-js/)
 
 Contains a lot of cool stuff like:
 
